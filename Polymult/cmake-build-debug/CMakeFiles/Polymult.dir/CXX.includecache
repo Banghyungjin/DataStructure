@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Bangh/CLionProjects/Polymult/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+string
+-
+tuple
+-
+algorithm
+-
+

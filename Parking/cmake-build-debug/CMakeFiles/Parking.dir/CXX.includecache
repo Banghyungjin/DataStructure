@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Bangh/CLionProjects/Parking/parking.cpp
+iostream
+-
+vector
+-
+fstream
+-
+string
+-
+tuple
+-
+algorithm
+-
+bits/stdc++.h
+-
+

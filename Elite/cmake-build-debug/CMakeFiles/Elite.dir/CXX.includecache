@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Bangh/CLionProjects/Elite/elite.cpp
+iostream
+-
+fstream
+-
+algorithm
+-
+vector
+-
+tuple
+-
+stack
+-
+

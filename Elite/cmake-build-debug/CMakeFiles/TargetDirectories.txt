@@ -1,0 +1,3 @@
+C:/Users/Bangh/CLionProjects/Elite/cmake-build-debug/CMakeFiles/Elite.dir
+C:/Users/Bangh/CLionProjects/Elite/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bangh/CLionProjects/Elite/cmake-build-debug/CMakeFiles/rebuild_cache.dir
